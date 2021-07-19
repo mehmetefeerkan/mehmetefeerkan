@@ -4,6 +4,6 @@
 ![css](https://img.shields.io/badge/css-★★☆☆☆-lightgrey?labelColor=ab34eb&logo=CSS3&style=for-the-badge&logoColor=white)
 ![lua](https://img.shields.io/badge/lua-★★★★★-lightgrey?labelColor=1572B6&logo=LUA&style=for-the-badge&logoColor=white)
 ![stats](https://github-readme-stats.vercel.app/api?username=mehmetefeerkan&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetefeerkan&theme=gotham)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetefeerkan&theme=gotham)
 
 
