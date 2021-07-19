@@ -11,7 +11,7 @@
 <pre>
 
 </pre>
-![discord](https://img.shields.io/badge/Discord-ephesus♯2730-99d1ce?labelColor=5865F2&logo=Discord&style=for-the-badge&logoColor=0c1014)
-![discord2](https://img.shields.io/badge/Discord-.gg/hypernovus-99d1ce?labelColor=5865F2&logo=Discord&style=for-the-badge&logoColor=0c1014)
-![discord3](https://img.shields.io/badge/Discord-.gg/esx-99d1ce?labelColor=5865F2&logo=Discord&style=for-the-badge&logoColor=0c1014)
-![discord3](https://img.shields.io/badge/Hypernovus-Online-brightgreen?style=for-the-badge&labelColor=5865F2&logo=Web&logoColor=0c1014)
+![discord](https://img.shields.io/badge/Discord-ephesus♯2730-99d1ce?labelColor=5865F2&logo=Discord&style=for-the-badge&logoColor=0c1014)(https://discord.gg/users/365521466063585290)
+![discord2](https://img.shields.io/badge/Discord-.gg/hypernovus-99d1ce?labelColor=5865F2&logo=Discord&style=for-the-badge&logoColor=0c1014)(https://discord.gg/hypernovus)
+![discord3](https://img.shields.io/badge/Discord-.gg/esx-99d1ce?labelColor=5865F2&logo=Discord&style=for-the-badge&logoColor=0c1014)(https://discord.gg/esx)
+![discord3](https://img.shields.io/badge/Hypernovus-Online-brightgreen?style=for-the-badge&labelColor=5865F2&logo=Web&logoColor=0c1014)(https://hypernovus.xyz)
