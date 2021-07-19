@@ -1,3 +1,4 @@
+![javascript](https://img.shields.io/badge/javascript-★★★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=0c1014)
 ![html](https://img.shields.io/badge/html-★★★☆☆-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=0c1014)
 ![css](https://img.shields.io/badge/css-★★☆☆☆-lightgrey?labelColor=ab34eb&logo=CSS3&style=for-the-badge&logoColor=0c1014)
 ![lua](https://img.shields.io/badge/lua-★★★★★-lightgrey?labelColor=1572B6&logo=LUA&style=for-the-badge&logoColor=0c1014)
