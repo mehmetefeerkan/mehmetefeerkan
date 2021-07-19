@@ -1,4 +1,4 @@
-![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)
+![nodejs](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=Node.JS&style=for-the-badge&logoColor=white)
 
 ![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)
 
