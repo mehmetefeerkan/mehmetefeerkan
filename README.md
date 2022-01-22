@@ -34,9 +34,9 @@ Ben Mehmet Efe Taner, FiveM ve yazılım geliştirme camiasında Mehmet Efe Erka
 
 
 ## Projelerim
-All projects I'm contributing/leading, all including software and/or hardware work:
+All projects I'm contributing/leading, all including software and/or hardware work.
 
-Grup ya da tekil olarak yürüttüğüm, her biri yazılım ve/veya donanım uğraşı içeren projeler:
+Grup ya da tekil olarak yürüttüğüm, her biri yazılım ve/veya donanım uğraşı içeren projeler;
 
 [![1](https://img.shields.io/badge/cosmicpi.istanbul-Active,_Some_Repos_Private-brightgreen?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://cosmicpi.istanbul)
 
