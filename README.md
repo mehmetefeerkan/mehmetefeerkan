@@ -18,6 +18,7 @@
     Frontend & Backend Developer / Hardware Designer
     <br />
     <a href="#projects"><strong>Projects »</strong></a>
+    <a href="https://mehmetefeerkan.github.io/"><strong>Personal Website</strong></a>
   </p>
 </div>
 
