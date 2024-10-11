@@ -6,7 +6,7 @@
 
   <h3 align="center">Mehmet Efe Taner</h3>
 
-  <a href="https://linkedin.com/in/mesq">
+  <a href="https://linkedin.com/in/mehmeteferkan">
     LinkedIn
   </a>
   ·
@@ -28,33 +28,29 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me // Hakkımda
 
-I'm Mehmet Efe Taner, better known as Mehmet Efe Erkan or 'ephesus' in the FiveM and software development community. I am best at JavaScript and Lua, but I also work with many other languages. Since this year's school semester started, rather than freelancing and FiveM, I am focusing more on semi-academic projects such as [cosmicpi.istanbul](https://cosmicpi.istanbul/) and [teden.app](https://teden.app/).
+I'm Mehmet Efe Taner, better known as Mehmet Efe Erkan or 'ephesus' in the FiveM and software development community. I am best at JavaScript and Lua, but I also work with many other languages. I have previosuly lead major national projects like cosmicpi.istanbul and teden.app. After graduation, I have directed myself towards Automotive Electronics & Software. After multiple years of training, I now own my own workshop, Solid Garage based in Istanbul. Solid Garage works on BMW, JLR and VAG Group cars' electrics-electronics and software; and is one of the leading workshops in Istanbul that works on EV-HEV vehicles. 
 
 <div id="projects"></div>
 
-Ben Mehmet Efe Taner, FiveM ve yazılım geliştirme camiasında Mehmet Efe Erkan veya 'ephesus' olarak ta tanınırım. JavaScript ve Lua en başarılı olduğum diller olsa da başka bir sürü dil ile de çalışıyorum. Bu senenin okul dönemi başladığından beri freelance çalışmak veya FiveM işlerinden ziyade [cosmicpi.istanbul](https://cosmicpi.istanbul/) ve [teden.app](https://teden.app/). gibi yarı akademik projelere daha fazla odaklanıyorum.
 
+## My Projects // Projelerim
+All projects I'm contributing to/leading or have lead before, all including software and/or hardware work.
 
-## Projelerim
-All projects I'm contributing/leading, all including software and/or hardware work.
-
-Grup ya da tekil olarak yürüttüğüm, her biri yazılım ve/veya donanım uğraşı içeren projeler;
+[![3](https://img.shields.io/badge/ixeq_Discord_Remote_Education_Assistive_Bot-Inactive,_All_Repos_Private-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
 
 [![1](https://img.shields.io/badge/cosmicpi.istanbul-Inactive,_Some_Repos_Private-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://cosmicpi.istanbul)
 
 [![2](https://img.shields.io/badge/teden.app-Inactive,_Some_Repos_Private-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://teden.app)
 
-[![3](https://img.shields.io/badge/ixeq_Discord_Remote_Education_Assistive_Bot-Inactive,_All_Repos_Private-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
-
 [![4](https://img.shields.io/badge/Şiirbaz_(Shazam_for_Poems)-Inactive,_All_Repos_Private-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
-
-[![5](https://img.shields.io/badge/Hypernovus_Botnet-Decommissioned,_All_Repos_Public-red?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://github.com/mehmetefeerkan/hypernovus-puppet-aws)
-
-[![6](https://img.shields.io/badge/34X10T_Botnet-STILL_Active,_All_Repos_Private-brightgreen?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
 
 [![8](https://img.shields.io/badge/VTS_(Efficiency_Monitoring_System_For_Factory_Workers)-Inactive,_Abandoned-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
 
 [![9](https://img.shields.io/badge/F1337_(Multipeer_W/UAV_System)-Inactive,_All_Repos_Private-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
+
+[![5](https://img.shields.io/badge/Hypernovus_Botnet-Decommissioned,_All_Repos_Public-red?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://github.com/mehmetefeerkan/hypernovus-puppet-aws)
+
+[![6](https://img.shields.io/badge/34X10T_Botnet-STILL_Active,_All_Repos_Private-brightgreen?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
 
 [![10](https://img.shields.io/badge/C.A.N.A.V.A.R_(Cyber_ANnihilation_And_Violation_ARray)-Inactive,_All_Repos_Private-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://github.com/mehmetefeerkan/C.A.N.A.V.A.R-modern)
 
@@ -62,11 +58,13 @@ Grup ya da tekil olarak yürüttüğüm, her biri yazılım ve/veya donanım uğ
 
 [![12](https://img.shields.io/badge/efficienza-Active,_All_Repos_Public-brightgreen?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://github.com/mehmetefeerkan/efficienza)
 
-[![13](https://img.shields.io/badge/VogCAN-Active,_All_Repos_Private-brightgreen?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
+[![15](https://img.shields.io/badge/Coinseye-Inactive,_All_Repos_Public-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://github.com/mehmetefeerkan/coinseye)
 
 [![14](https://img.shields.io/badge/QuiaNotitia-Active,_All_Repos_Private-brightgreen?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
 
-[![15](https://img.shields.io/badge/Coinseye-Inactive,_All_Repos_Public-orange?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)](https://github.com/mehmetefeerkan/coinseye)
+[![13](https://img.shields.io/badge/VogCAN-Active,_All_Repos_Private-brightgreen?style=flat-square&logo=appveyor&labelColor=5865F2&logo=Web&logoColor=0c1014)]()
+
+
 
 and many more i rather not list.
 
@@ -93,7 +91,7 @@ ve listelememeyi tecih ettiğim çok daha fazlası...
 
 ## Contact Me // Bana Ulaşın
 
-[Mail](mailto:mehmetefe@prodigygaming.network)
+[Mail](mailto:efe@solidgara.ge)
 
 [LinkedIn](https://linkedin.com/in/mesq)
 
