@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me // Hakkımda
 
-I'm Mehmet Efe Taner, better known as Mehmet Efe Erkan or 'ephesus' in the FiveM and software development community. I am best at JavaScript and Lua, but I also work with many other languages. I have previosuly lead major national projects like cosmicpi.istanbul and teden.app. After graduation, I have directed myself towards Automotive Electronics & Software. After multiple years of training, I now own my own workshop, Solid Garage based in Istanbul. Solid Garage works on BMW, JLR and VAG Group cars' electrics-electronics and software; and is one of the leading workshops in Istanbul that works on EV-HEV vehicles. 
+I'm Mehmet Efe Taner, better known as Mehmet Efe Erkan or 'ephesus' in the FiveM and software development community. I am best at JavaScript and Lua, but I also work with many other languages. I have previosuly lead major national projects like cosmicpi.istanbul and teden.app. After graduation, I have directed myself towards Automotive Electronics & Software. After multiple years of training, I now work on BMW, JLR and VAG Group cars' electrics-electronics and software; and is one of the leading individuals in Istanbul that works on EV-HEV vehicles. I've developed advanced tools for reverse-engineering BMW's diagnostics suite, created an API for generating security access keys for JLR's SDD software, built a software suite for bypassing End-Of-Service-Test on pre-SP2021 BMW Vehicles, and did much more.
 
 <div id="projects"></div>
 
